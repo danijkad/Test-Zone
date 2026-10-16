@@ -35,7 +35,7 @@ img {
 max-width:100%}
 
 .site-shell {
-  max-width:1600px;
+  max-width:0 auto;
   margin:0 auto;
   overflow:hidden;
 background:radial-gradient(ellipse at 75% 0%,rgba(66,34,145,.16),transparent 35%),var(--deep)}
