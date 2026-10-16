@@ -35,10 +35,16 @@ img {
 max-width:100%}
 
 .site-shell {
-  max-width:1600px;
-  margin:0 auto;
-  overflow:hidden;
-background:radial-gradient(ellipse at 75% 0%,rgba(66,34,145,.16),transparent 35%),var(--deep)}
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  overflow: hidden;
+  background: radial-gradient(
+    ellipse at 75% 0%,
+    rgba(66, 34, 145, 0.16),
+    transparent 35%
+  ), var(--deep);
+}
 
 .site-header {
   height:86px;
