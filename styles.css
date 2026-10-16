@@ -36,7 +36,7 @@ max-width:100%}
 
 .site-shell {
   width: 100%;
-  max-width: none;
+  max-width: 1600px;
   margin: 0;
   overflow: hidden;
   background: radial-gradient(
